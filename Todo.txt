@@ -1,0 +1,28 @@
+Main:
+	*1. read a list of questions and thier answers from a file and save into lists*
+	*2. display catagories and point values*
+	*3. display queston when (catagory, point value) is seleceted*
+	*4. display correct answer when clicked again*
+
+Extra:
+	1. Read in multiple inputs from users and display which input came first
+	2. Keep score for each player(3-4 total players?)
+	3. Sounds
+	4. Transitions
+	5. Daily Double functionality
+		5a. Input for amount of points being put on the line.
+		5b. Dont allow for point values < 0 or > total points earned sofar.
+		5c. Add/Remove points from team after correct/incorect answer.
+		5d. A random question is choosen to be Daily Double. Make it atlest mid point value and up?
+	6. Round Two
+	7. Rules screen
+	8. Disable input if player rings before question has been completly read by host.
+			Host will click to alow inputs as he/she finishes reading the question. player who clicks before the host will have button input disabled.
+	9. Color on buttons to indicate state. Green gets to answer, Red clicked too early, Grey/White/ nutral color waiting as host reads, Blue clickable after host reads.
+	10. Option to have incorect answers deduct points.
+	11. timer per question
+	12. Final Jeopardy
+		5a. Input for amount of points being put on the line for each team.
+		5b. Dont allow for point values < 0 or > total points earned.
+		5c. Add/Remove points from teams after correct/incorect answer.
+	13. Make point value font size dynamic
